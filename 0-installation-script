@@ -1,4 +1,0 @@
-# steps i took to install SASS
-- i open my terminal 
-- and i use this comand "sudo npm install -g sass"
-- i check the verion using npm sass -verion
